@@ -1,0 +1,1 @@
+f = open('C:/Users/迪逼迪逼/AppData/Local/Programs/Python/Python38/lib/site-packages/mediapipe/modules/hand_landmark/hand_landmark_tracking_cpu.binarypb','r')
